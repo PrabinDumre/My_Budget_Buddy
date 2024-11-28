@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Personal Expense Management System with Note-Taking
 
 A modern, user-friendly web application designed to help users efficiently manage their finances and organize personal notes. The project integrates **Expense Management** and **Note-Taking** functionalities, offering secure and real-time features to enhance productivity and financial tracking.
@@ -103,7 +102,7 @@ The primary goal of this project is to simplify personal expense tracking and no
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/somnath271/My-Budget-Buddy.git
+   git clone https://github.com/PrabinDumre/My_Budget_Buddy.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -137,6 +136,3 @@ Project preview
 ![alt text](image4.jpeg)
 
 ![alt text](image5.jpeg)
-=======
-# My_Budget_Buddy
->>>>>>> 06cdd00946ba98dcec11d3764b0e57d3be451f90
