@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Expense Management System with Note-Taking
 
 A modern, user-friendly web application designed to help users efficiently manage their finances and organize personal notes. The project integrates **Expense Management** and **Note-Taking** functionalities, offering secure and real-time features to enhance productivity and financial tracking.
@@ -136,3 +137,6 @@ Project preview
 ![alt text](image4.jpeg)
 
 ![alt text](image5.jpeg)
+=======
+# My_Budget_Buddy
+>>>>>>> 06cdd00946ba98dcec11d3764b0e57d3be451f90
