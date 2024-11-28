@@ -106,7 +106,7 @@ The primary goal of this project is to simplify personal expense tracking and no
    ```
 2. Navigate to the project directory:
    ```bash
-   cd My-Budget-Buddy
+   cd My_Budget_Buddy
    ```
 3. Install dependencies:
 
